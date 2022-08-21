@@ -6,4 +6,7 @@
 
 - [Netcat with command prompt](https://github.com/Denuwan98/security/tree/main/To%20connect%20with%20Victim%20device/Netcat%20with%20cmd)
 
+### 2. To check Victim's data
+
+- [Check Original or Duplicate](https://github.com/Denuwan98/security/tree/main/To%20connect%20with%20Victim%20device/Netcat%20with%20cmd)
 
