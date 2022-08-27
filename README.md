@@ -7,6 +7,8 @@
 
 - [Check Original or Duplicate/ Edit file](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
 
+- [Get DELETED files/ folders](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
+
 ## 02) Scanning
 
 
