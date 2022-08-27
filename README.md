@@ -11,6 +11,8 @@
 
 - [Get all informations according to `Image`](https://metapicz.com)
 
+- [Check HIDE informations according to `Image`](https://metapicz.com)
+
 ## 02) Scanning
 
 
