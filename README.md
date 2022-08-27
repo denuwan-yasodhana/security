@@ -11,7 +11,7 @@
 
 - [Get all informations according to `Image`](https://metapicz.com)
 
-- [Check HIDE informations according to `Image`](https://metapicz.com)
+- [Check HIDE informations according to `Image`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/Quickstego)
 
 ## 02) Scanning
 
