@@ -13,6 +13,8 @@
 
 - [Check HIDE informations according to `Image`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/Quickstego)
 
+#### Reconnaissance on the Victim
+
 - Get all information of victim's `current location or past locations` (-- search -- myactivity >> Other activity >> Location History >> Manage activity)
 
 ## 02) Scanning
