@@ -5,11 +5,11 @@
 
 #### To check Victim's data
 
-- [Manage and remember our password](https://metapicz.com)
+- [Manage and remember our `password`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/KeePass)
 
-- [Check Original or Duplicate/ Edit file](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
+- [Check Original or Duplicate/ Edit `file`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
 
-- [Get DELETED files/ folders](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
+- [Get DELETED `files/ folders`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
 
 - [Get all informations according to `Image`](https://metapicz.com)
 
