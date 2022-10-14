@@ -9,6 +9,9 @@
 
 - [Check Original or Duplicate/ Edit `file`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
 
+	- Can see if the data has been modified or changed.
+	- Check data integrity when sent through telecommunication networks such as Internet
+
 - [Get DELETED `files/ folders`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
 
 - [Get all informations according to `Image`](https://metapicz.com)
