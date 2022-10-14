@@ -12,7 +12,7 @@
 	- Can see if the data has been modified or changed.
 	- Check data integrity when sent through telecommunication networks such as Internet
 
-- [Get DELETED `files/ folders`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
+- [Get DELETED `files/ folders`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/EaseUS)
 
 - [Get all informations according to `Image`](https://metapicz.com)
 
