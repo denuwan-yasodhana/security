@@ -8,9 +8,10 @@
 - [Manage and remember our `password`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/KeePass)
 
 - [Get Source Code of any `android app`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/Quickstego)
+	- Transfer apps to other Android devices that have no internet connectivity.
+	- Take a backup of apps and store them on the computer.
 
 - [Check Original or Duplicate/ Edit `file`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/HashCal)
-
 	- Can see if the data has been modified or changed.
 	- Check data integrity when sent through telecommunication networks such as Internet
 
