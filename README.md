@@ -38,7 +38,7 @@
 
 #### Get power of the victim's device
 
-- [Cerberus app for only Android](https://github.com/Denuwan98/security/tree/main/To%20connect%20with%20Victim%20device/Netcat%20with%20cmd)
+- [Cerberus app for only Android](https://github.com/denuwan-yasodhana/security/tree/main/Get%20power%20of%20the%20victim's%20device/Cerberus)
 
 ## 04) Post Exploitation
 
