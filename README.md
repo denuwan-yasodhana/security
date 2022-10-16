@@ -39,6 +39,11 @@
 #### Get power of the victim's device
 
 - [Cerberus app for only Android](https://github.com/denuwan-yasodhana/security/tree/main/Get%20power%20of%20the%20victim's%20device/Cerberus)
+	- Can shut down the device.
+	- If the thief tries to uninstall the app, the application will force the thief to go to the device admin settings to remove the admin privileges.
+	- Can back up data on either Dropbox or Google Drive by linking any of them to Cerberus.
+	- Front-camera pictures of the person who enters too many wrong passwords, then immediately send the picture to the registered email address.
+	- Even if the victim has removed the SIM card, the application is allowed to be used if we know the application number.
 
 ## 04) Post Exploitation
 
