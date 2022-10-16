@@ -32,6 +32,9 @@
 #### To connect with Victim device
 
 - [Netcat with command prompt](https://github.com/Denuwan98/security/tree/main/To%20connect%20with%20Victim%20device/Netcat%20with%20cmd)
+	- Used to know if a specific port is open and/or accepting connections.
+	- Used for sending "data files" across the Internet
+	- Used for sending "messages" between both devices
 
 #### Get power of the victim's device
 
