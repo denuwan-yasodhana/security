@@ -17,6 +17,7 @@
 - [Get all informations according to `Image`](https://metapicz.com)
 
 - [Check HIDE informations according to `Image`](https://github.com/denuwan-yasodhana/security/tree/main/To%20check%20Victim's%20data/Quickstego)
+	- Send and receive text is hidden in an image as a 'picture'
 
 #### Reconnaissance on the Victim
 
